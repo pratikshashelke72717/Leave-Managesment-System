@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\bin\Debug\Leave Management System.dacpac
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\bin\Debug\Leave_Management_System.dll
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\bin\Debug\Leave_Management_System.pdb
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave Management System.sqlproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.dll
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.pdb
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\obj\Debug\Model.xml
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\obj\Debug\refactor.xml
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\obj\Debug\postdeploy.sql
+C:\Users\LENOVO\source\repos\Leave Management System\Leave Management System\obj\Debug\predeploy.sql
